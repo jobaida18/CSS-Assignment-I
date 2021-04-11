@@ -1,0 +1,145 @@
+*{
+
+}
+
+h3{
+    text-align: center;
+    font-size: 30px;
+    font-family: Forte;
+}
+
+.germany{
+    width: 500px;
+    height: 100px;
+    background-color: red;
+    margin: 20px auto;
+    border-top: 100px solid black;
+    border-bottom: 100px solid yellow;
+}
+
+.indonesia{
+    width: 500px;
+    height: 200px;
+    background-color: whitesmoke;
+    margin: 20px auto;
+    border-top: 200px solid red;
+}
+
+.iraq{
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    margin: 20px auto;
+    border-top: 100px solid rgb(170, 6, 6);
+    border-bottom: 100px solid black;
+    text-align: center;
+} 
+
+.iraq img{
+    width: 150px;
+    margin-top: 20px;
+}
+
+.ksa{
+    width: 500px;
+    height: 300px;
+    background-color: darkgreen;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.ksa img{
+    margin-top: 70px;
+}
+
+.afghanistan{
+    width: 166px;
+    height: 300px;
+    background-color: red;
+    margin: 20px auto;
+    border-left: 166px solid black;
+    border-right: 166px solid green;
+}
+
+.afghanistan img{
+    width: 166px;
+    margin-top: 70px;
+    border-radius: 45px 45px;
+}
+
+.russia{
+    width: 500px;
+    height: 100px;
+    background-color: blue;
+    margin: 20px auto;
+    border-top: 100px solid whitesmoke;
+    border-bottom: 100px solid red;
+}
+
+.turkey{
+    width: 500px;
+    height: 300px;
+    background-color: rgb(212, 0, 0);
+    margin: 20px auto;
+    text-align: center;
+    overflow: hidden;
+}
+
+.turkey img{
+    width: 195px;
+    margin: 78px auto;
+    border-radius: 75px 75px;
+}
+
+.canada{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    margin: 20px auto;
+    border-left: 125px solid red;
+    border-right: 125px solid red;
+    text-align: center;
+    overflow: hidden;
+}
+
+.canada img{
+    width: 200px;
+    margin: 40px auto;
+}
+
+.egypt{
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    margin: 20px auto;
+    border-top: 100px solid red;
+    border-bottom: 100px solid black;
+    text-align: center;
+}
+
+.egypt img{
+    width: 72px;
+}
+
+.india{
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    margin: 20px auto;
+    border-top: 100px solid orange;
+    border-bottom: 100px solid green;
+    text-align: center;
+}
+
+.india img{
+    width: 100px;
+}
+
+.italy{
+    width: 166px;
+    height: 300px;
+    background-color: white;
+    margin: 20px auto;
+    border-left: 166px solid green;
+    border-right: 166px solid red;
+}
