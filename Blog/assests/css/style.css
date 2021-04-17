@@ -1,0 +1,146 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-image: url('../img/lake.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.first{
+    background-color: rgb(134, 25, 25);
+    width: 500px;
+    margin: 50px auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.first h2{
+    font-family: Broadway;
+    color: white;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.first img{
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+.first p{
+    color: white;
+    font-family: Georgia;
+    margin-bottom: 20px;
+    text-align: justify;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.second{
+    background-color: black;
+    width: 500px;
+    margin: 60px auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.second h2{
+    font-family: Elephant;
+    color: peru;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.second img{
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+.second p{
+    color: peru;
+    font-family: Gabriola;
+    margin-bottom: 0px;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.third{
+    background-color: lightblue;
+    width: 500px;
+    margin: 60px auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.third h2{
+    font-family: Stencil;
+    color: red;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.third img{
+    width: 356px;
+    margin-bottom: 20px;
+}
+
+.third p{
+    color: red;
+    font-family: Mistral;
+    margin-bottom: 0px;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.fourth{
+    background-color: gray;
+    width: 500px;
+    margin: 60px auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.fourth h2{
+    font-family: Castellar;
+    color: black
+    font-style: italic;
+    font-weight: normal;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.fourth img{
+    width: 450px;
+    margin-bottom: 20px;
+}
+
+.fourth p{
+    color: black;
+    font-family: Pristina;
+    margin-bottom: 0px;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: normal;
+}
