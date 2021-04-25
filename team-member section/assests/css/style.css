@@ -1,0 +1,189 @@
+*{
+
+}
+
+.title{
+    background-color: whitesmoke;
+    text-align: center;
+    width: 100%;
+    height: 130px;
+}
+
+.title h2{
+    color: black;
+    font-family: Algerian;
+    font-size: 60px;
+    margin: 10px auto;
+}
+
+.title p{
+    color: black;
+    font-family: Algerian;
+    font-size: 28px;
+    margin: 10px auto;
+}
+
+.group{
+    background-color: whitesmoke;
+    height: 300px;
+    background-image: url(../img/group.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 50px;
+    background-attachment: fixed;
+}
+
+.group img{
+    width: 100%;
+}
+
+.Zayn{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 30px 0px;
+    width: 33.33%;
+    height: 500px;
+    float: left;
+}
+
+.Zayn h4{
+    color: black;
+    font-family: Forte;
+    font-size: 30px;
+    margin: 10px auto;
+}
+
+.Zayn img{
+    width: 200px;
+    margin: auto auto;
+    border-radius: 50%;
+    float: left;
+}
+
+.Zayn p{
+    font-family: Pristina;
+    color: maroon;
+    font-weight: bold;
+    width: 70%;
+    margin: 0px auto;
+}
+
+.Harry{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 30px 0px;
+    width: 33.33%;
+    height: 500px;
+    float: left;
+}
+
+.Harry h4{
+    color: black;
+    font-family: Forte;
+    font-size: 30px;
+    margin: 10px auto;
+}
+
+.Harry img{
+    width: 200px;
+    border-radius: 50%;
+    float: left;
+}
+
+.Harry p{
+    font-family: Pristina;
+    color: maroon;
+    font-weight: bold;
+    width: 70%;
+    margin: 0px auto;
+}
+
+.Liam{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 30px 0px;
+    width: 33.33%;
+    height: 500px;
+    float: left;
+}
+
+.Liam h4{
+    color: black;
+    font-family: Forte;
+    font-size: 30px;
+    margin: 10px auto;
+}
+
+.Liam img{
+    width: 200px;
+    border-radius: 50%;
+    float: left;
+}
+
+.Liam p{
+    font-family: Pristina;
+    color: maroon;
+    font-weight: bold;
+    width: 70%;
+    margin: 0px auto;
+}
+
+.Louis{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 30px 0px;
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+
+.Louis h4{
+    color: black;
+    font-family: Forte;
+    font-size: 30px;
+    margin: 10px auto;
+}
+
+.Louis img{
+    width: 200px;
+    border-radius: 50%;
+    float: left;
+}
+
+.Louis p{
+    font-family: Pristina;
+    color: maroon;
+    font-weight: bold;
+    width: 70%;
+    margin: 0px auto;
+}
+
+.Niall{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 30px 0px;
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+
+.Niall h4{
+    color: black;
+    font-family: Forte;
+    font-size: 30px;
+    margin: 10px auto;
+}
+
+.Niall img{
+    width: 200px;
+    border-radius: 50%;
+    float: left;
+}
+
+.Niall p{
+    font-family: Pristina;
+    color: maroon;
+    font-weight: bold;
+    width: 70%;
+    margin: 0px auto;
+}
