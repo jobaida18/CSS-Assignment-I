@@ -14,6 +14,7 @@
     font-family: Algerian;
     font-size: 60px;
     margin: 10px auto;
+    text-shadow: 3px 3px 5px maroon;
 }
 
 .title p{
@@ -21,6 +22,7 @@
     font-family: Algerian;
     font-size: 28px;
     margin: 10px auto;
+    text-shadow: 0px 3px 10px maroon;
 }
 
 .group{
@@ -133,7 +135,7 @@
     text-align: center;
     padding: 30px 0px;
     width: 50%;
-    height: 500px;
+    height: 400px;
     float: left;
 }
 
@@ -163,7 +165,7 @@
     text-align: center;
     padding: 30px 0px;
     width: 50%;
-    height: 500px;
+    height: 400px;
     float: left;
 }
 
@@ -186,4 +188,20 @@
     font-weight: bold;
     width: 70%;
     margin: 0px auto;
+}
+
+.about{
+    background-color: whitesmoke;
+    width: 100%;
+    margin: 0px auto;
+
+}
+.about p{
+    font-family: Forte;
+    color: maroon;
+    font-weight: bold;
+    font-size: 20px;
+    width: 97%;
+    margin: 10px auto;
+
 }
